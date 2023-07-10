@@ -1,0 +1,74 @@
+#al-head {
+	background: #212121;
+}
+#al-head>h1 {
+	color: #fff;
+}
+#al-head>* {
+	color: #ccc;
+}
+#al-head p {}
+
+
+#al-news h2 {
+	border: 0;
+	margin-top: 10px;
+}
+
+a.doclink {
+	color: #333;
+}
+
+/** For making a buffer between rows, use this class **/
+.top-buffer { margin-top: 20px; }
+
+/** Generic element definitions **/
+p, li, dl, dt {
+	font-family: Palatino, Georgia, serif;
+}
+.box ul {
+	list-style: none;
+	margin: 0px 0;
+	padding-left: 0px;
+	padding-right: 4px;
+}
+.box li {
+	margin-bottom: 0px;
+	padding: 4px 4px;
+	/*border-left: 5px solid #ec8313;*/
+	border-bottom: 1px dashed #f3f3f3;
+}
+.box li:last-child {
+	border-bottom: 0px solid #fff;
+}
+dl {
+    margin-bottom: 0;
+}
+dl p {
+    margin-bottom: 5px;
+}
+
+.container>.row {
+	margin-bottom: 10px;
+}
+
+h2 {
+	/*font-family: 'Sorts Mill Goudy', Palatino, Georgia, serif;*/
+	font-family: Palatino, Georgia, serif; /* POSTER: PALATINO FIRST */
+	font-size: 32px;
+	font-weight: 500;
+	font-style: normal;
+	width: 100%;
+	/*border-bottom: 2px solid #ec8313;*/
+	border-bottom: 1px solid #eee;
+	margin: 40px 0 10px 0;
+	text-align: left;
+}
+h4 {
+	margin: 20px 0 6px 0;
+	/*font-family: 'Sorts Mill Goudy', Palatino, Georgia, serif;*/
+	font-family: Palatino, Georgia, serif; /* POSTER: PALATINO FIRST */
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 500;
+}

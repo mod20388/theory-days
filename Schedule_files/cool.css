@@ -261,7 +261,7 @@ body #content.help { font-size: 11pt; }
   line-height: 1.4;
 }
 
-h2 {
+/* h2 {
     margin: 2px 0px 10pt 0pt;
     font-weight: normal;
     font-size: 16pt;
@@ -274,7 +274,7 @@ h3 {
 h4 {
   margin: 6pt 0px 4pt 0px;
   font-size:11pt;
-}
+} */
 
 p {
     margin: 0px 0pt 12px 10pt;
@@ -282,12 +282,12 @@ p {
     line-height: 1.4;
 }
 
-ol {
+/* ol {
   max-width:650pt;
-}
-ul {
+} */
+/* ul {
   max-width:650pt;
-}
+} */
 
 a:active{
   color : red;

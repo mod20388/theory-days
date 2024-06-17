@@ -1,6 +1,8 @@
 #al-head {
 	background-image: url('images/helsinki.jpg');
 	height: 360px;
+    background-position-y: -688px;
+    background-size: cover;
 }
 #al-head>div>h1 {
 	color: #fff;

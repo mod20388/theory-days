@@ -1,7 +1,7 @@
 #al-head {
 	background-image: url('images/helsinki.jpg');
 	height: 360px;
-    background-position: 50% 15%;
+    background-position: 70% 15%;
     background-size: cover;
 }
 #al-head>div>h1 {
@@ -9,7 +9,8 @@
 	/*font-weight: bold;*/
 }
 #al-head>* {
-	color: #000;
+	color: honeydew;
+    font-weight: 800;
 }
 #al-head p {/*font-weight: bold;*/}
 #al-head>div>p {
